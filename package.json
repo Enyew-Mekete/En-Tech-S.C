@@ -2,7 +2,7 @@
   
   "name": "en-tech-s.c-technology-company-2",
   
-  "homepage": "https://Enyew-Mekete.github.io/my-app",
+  "homepage": "https://github.com/Enyew-Mekete/en-tech-s.c.git",
   
   "private": true,
   
@@ -15,7 +15,7 @@
     
   "dev": "vite",
   
-    
+  
   "preview": "vite preview",
   
     
