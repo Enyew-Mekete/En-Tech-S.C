@@ -1,0 +1,81 @@
+{
+  
+  "name": "en-tech-s.c-technology-company-2",
+  
+  "homepage": "https://Enyew-Mekete.github.io/my-app",
+  
+  "private": true,
+  
+  "version": "0.0.0",
+  
+  "module": "module",
+  
+  "scripts": {
+  
+    
+  "dev": "vite",
+  
+    
+  "preview": "vite preview",
+  
+    
+  "predeploy": "npm run build",
+  
+    
+  "deploy": "gh-pages -d build",
+  
+    
+  "start": "react-scripts start",
+  
+    
+  "build": "react-scripts build",
+  
+    
+  "test": "react-scripts test",
+  
+    
+  "eject": "react-scripts eject"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "cors": "^2.8.5",
+  
+    
+  "express": "^5.2.1",
+  
+    
+  "mysql2": "^3.16.0",
+  
+    
+  "react": "^19.2.3",
+  
+    
+  "react-dom": "^19.2.3",
+  
+    
+  "react-router-dom": "^7.11.0"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "@types/node": "^22.14.0",
+  
+    
+  "@vitejs/plugin-react": "^5.0.0",
+  
+    
+  "gh-pages": "^6.3.0",
+  
+    
+  "typescript": "~5.8.2",
+  
+    
+  "vite": "^6.2.0"
+  
+  }
+}
